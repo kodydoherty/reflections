@@ -1,0 +1,2 @@
+WHen would you want to create a remote repository rather than keeping all your work local?
+So you have a offsite backup of your work or you want to collaborate with others.
