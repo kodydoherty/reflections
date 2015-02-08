@@ -1,0 +1,2 @@
+What happens when you initalize a repository? Why do you need to do it?
+It creates all the directories and files required to commit changes with git
